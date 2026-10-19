@@ -2,7 +2,7 @@
 
 <img width="1959" height="722" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/97cb17a7-9670-4e26-a50f-6cb20bebc9a3" />
 
-## Project Overview
+## Project Overview 🛰️☘️
 This project performs a comprehensive Exploratory Data Analysis (EDA) on the NASA Exoplanets dataset. The main goal is to analyze the physical and orbital characteristics of exoplanets to identify key factors that determine whether a planet resides in the "Habitable Zone".
 
 ## Primary Questions
